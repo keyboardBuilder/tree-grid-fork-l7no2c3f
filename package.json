@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/keyboardbuilder.tree-grid-fork-l7no2c3f",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sy4UkGGc7MI6JUq3bq6x --open"
+  }
+}
